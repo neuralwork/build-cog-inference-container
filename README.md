@@ -35,3 +35,5 @@ data = {"input": {"prompt":"I am an athletic and 180cm tall man in my mid twenti
 response = requests.post(url, json=data)
 print(response.json())
 ```
+
+From [neuralwork](https://neuralwork.ai/) with :heart:
