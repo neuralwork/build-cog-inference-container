@@ -1,6 +1,6 @@
 ## Build a Dockerized Inference API using Cog
 This repository contains the code and instructions to build a Dockerized Inference API for an LLM using Cog. For detailed tutorial of building the docker image and deploying to it to AWS EC2, please refer to [our blog](https://blog.neuralwork.ai/).
-The LLM is the mistral-7b finetuned on the style instruct dataset and named mistral-7b-style-instruct. Training code and instructions of the model can be found in the [instruct-finetune-mistral](https://github.com/neuralwork/instruct-finetune-mistral) repository, its detailed tutotial can be found in [our blog post](https://blog.neuralwork.ai/an-llm-fine-tuning-cookbook-with-mistral-7b/).
+The LLM is the mistral-7b finetuned on the style instruct dataset and named mistral-7b-style-instruct. Training code and instructions of the model can be found in the [instruct-finetune-mistral](https://github.com/neuralwork/instruct-finetune-mistral) repository, its detailed tutotial can be found in [our blog post](https://blog.neuralwork.ai/deploying-llms-on-aws-ec2-using-cog-a-complete-guide/).
 
 ## Pre-requisites
 - Nvidia GPU with CUDA support.
